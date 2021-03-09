@@ -1,2 +1,2 @@
-# RevIP
-Command :&lt;br>pkg install git&lt;br>pkg install bash
+
+Command :<br>pkg install git<br>pkg install bash
